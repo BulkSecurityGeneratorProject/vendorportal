@@ -1,0 +1,41 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "vendorportal",
+    "packageName": "io.vamani.portal.application",
+    "packageFolder": "io/vamani/portal/application",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "no",
+    "enableHibernateCache": false,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.1",
+    "jwtSecretKey": "ZTA4ZDAyYzM1MWY4YzM1ODZjOThlNmIwMzJlNTc2MTI2OGQ5MWExNjE1ZDU1NTE1ZjYxZjgzYTg1OTZiYjlkZjMwNTVkNDNmNThhMjU0NWQ3YjRmMWFhY2FhODMxOWNhMzkwODFiYjBiZTBmMTA3NGJlNjM5NGRhN2M1M2VmNDQ=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "vivekkrjaiswal",
+  "repository-name": "vendorportal"
+}
